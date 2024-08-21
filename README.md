@@ -4,6 +4,10 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kotarou1192&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+## 登壇
+
+- https://cloudnativedays.jp/cicd2023/talks/1780
+
 <!--
 **kotarou1192/kotarou1192** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
